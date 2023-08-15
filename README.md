@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Doctor's Meet](https://github.com/Harnyx-Dope/MINI-PROJECT-1-5-SEM-)
+- 🔭 I’m currently working on OTP-Services
 
 - 🌱 I’m currently learning **SpringBoot ,Hibernate ,Angular With Frontend Tech Stack**
 
